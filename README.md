@@ -42,16 +42,17 @@ This project is a data-driven financial analysis platform that provides historic
    "uvicorn api.main:app --reload"
 
 5. Access the FastAPI endpoints:
+
    Raw stock data: http://localhost:8000/raw_data/
    Financial metrics: http://localhost:8000/financial_metrics/
 
 
-6. Contributing
+7. Contributing
    
    Contributions are welcome! Please fork the repository and create a pull request with your improvements. Follow 
    the Contributing Guidelines for more details.
 
-7. License
+8. License
     
    This project is licensed under the MIT License - see the LICENSE file for details.
 
