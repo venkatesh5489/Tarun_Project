@@ -25,8 +25,8 @@ This project is a data-driven financial analysis platform that provides historic
 1. Clone the repository:
 
    
-   git clone https://github.com/yourusername/financial-analysis.git
-   cd financial-analysis
+   git clone https://github.com/venkatesh5489/Tarun_Project.git
+   cd Tarun_Project
    
 2. Install dependencies:
 
