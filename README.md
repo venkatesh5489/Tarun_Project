@@ -30,28 +30,28 @@ This project is a data-driven financial analysis platform that provides historic
    
 2. Install dependencies:
 
-3. "pip install -r requirements.txt"
+   "pip install -r requirements.txt"
 
-4. Set up PostgreSQL database:
+3. Set up PostgreSQL database:
 
    Create a database named financial_data.
    Import historical stock price data CSV into the database.
 
-5. Run the FastAPI server:
+4. Run the FastAPI server:
 
    "uvicorn api.main:app --reload"
 
-6. Access the FastAPI endpoints:
+5. Access the FastAPI endpoints:
    Raw stock data: http://localhost:8000/raw_data/
    Financial metrics: http://localhost:8000/financial_metrics/
 
 
-7. Contributing
+6. Contributing
    
    Contributions are welcome! Please fork the repository and create a pull request with your improvements. Follow 
    the Contributing Guidelines for more details.
 
-9. License
+7. License
     
    This project is licensed under the MIT License - see the LICENSE file for details.
 
